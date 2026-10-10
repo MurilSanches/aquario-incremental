@@ -1,0 +1,6 @@
+id,nome,familia,tanque_id,raridade,custo_base,razao_custo,renda_base_por_seg,cota_max,sprite_base,paleta,libera_apos_ter,notas
+lebiste,Lebiste,lebiste,agua_doce_01,comum,10,1.15,0.1,200,ph_pequeno,verde,,Primeiro peixe; barato mas encarece igual aos outros
+neon,Tetra Neon,tetra,agua_doce_01,comum,120,1.15,1,200,ph_pequeno,azul,lebiste:10,
+betta,Betta,betta,agua_doce_01,incomum,1400,1.15,8,150,ph_medio,vermelho,neon:10,
+acara,Acará-bandeira,acara,agua_doce_01,raro,16000,1.15,60,100,ph_medio,prata,betta:10,
+disco_dourado,Disco Dourado,disco,agua_doce_01,lendario,190000,1.15,450,50,ph_grande,dourado,acara:10,Peixe lendario do fim do tanque (ideia #021)

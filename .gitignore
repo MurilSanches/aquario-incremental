@@ -1,0 +1,47 @@
+# Unity (projeto em game/)
+game/[Ll]ibrary/
+game/[Tt]emp/
+game/[Oo]bj/
+game/[Bb]uild/
+game/[Bb]uilds/
+game/[Ll]ogs/
+game/[Uu]ser[Ss]ettings/
+game/[Mm]emoryCaptures/
+game/[Rr]ecordings/
+game/RunLogs/
+game/.vs/
+game/.vscode/
+game/.idea/
+game/*.csproj
+game/*.sln
+game/*.slnx
+game/*.suo
+game/*.user
+game/*.userprefs
+game/*.pidb
+game/*.booproj
+game/*.svd
+game/*.pdb
+game/*.mdb
+game/*.opendb
+game/*.VC.db
+game/*.apk
+game/*.aab
+game/*.unitypackage
+game/crashlytics-build.session
+game/Assets/AssetStoreTools*
+game/sysinfo.txt
+
+# Steam (nunca versionar)
+steam_appid.txt
+game/Assets/StreamingAssets/steam_appid.txt
+
+# Ferramentas e sistema
+.DS_Store
+Thumbs.db
+*.log
+__pycache__/
+.claude/settings.local.json
+
+# BMAD (já tem regra própria em _bmad/custom/.gitignore)
+_bmad/render/
